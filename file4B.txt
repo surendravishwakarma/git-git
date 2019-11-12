@@ -1,2 +1,5 @@
 file create for new first branch and commands are 1.git branch (BN)
 2. git checkout (FBN)
+
+3. after merging i check effact on master brach when we add new message
+and modify
